@@ -1,0 +1,15 @@
+1. What is a Function ?
+--> In Java a function is reffered as a method, 
+    which is known as a specific block of code within a class, used for specific task.
+
+2. Advantages of Functions : 
+    1. Modularity: They break down complex problems into smaller, manageable pieces.
+    2. Reusability: Code is defined once and can be used multiple times throughout the program or in  other projects, avoiding redundancy.
+    3. Readability & Maintainability: They make code cleaner, easier to understand, and simpler to debug and modify. 
+    4. Used to improve efficiency of program.
+
+3. Types of Functions : 
+    1. No Arguments passed and No Return value.
+    2. Arguments passed and Returns a value.
+    3. Arguments passed but no Return value.
+    4. No Arguments passed but Returns value.
