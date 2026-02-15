@@ -1,0 +1,7 @@
+/* Constructors are the methods with same class name .
+--> There are two types of constructors : 
+    1. Default constructor
+    2. Parametarized constructor
+--> These are used to initialize the values.
+--> The default constructor is without the parameters.
+--> The parametarized constructor is with parameters or arguments. */
